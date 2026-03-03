@@ -4,7 +4,7 @@
   <img src="assets/Hi.gif" width="38px"> Hey there! I'm Shaan ✨
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=false&multiline=true&width=600&height=80&lines=Let’s+Build+Something+Secure+%F0%9F%9A%80;MERN+Developer;Cybersecurity+Enthusiast+%F0%9F%94%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00ACDE&width=600&height=80&lines=Let%E2%80%99s+Build+Something+Powerful+%F0%9F%9A%80;Web+Developer;Cybersecurity+Enthusiast)](https://git.io/typing-svg)
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=Shaan-cs&color=blue&style=for-the-badge" alt="Profile views" />
