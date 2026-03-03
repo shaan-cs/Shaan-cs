@@ -1,4 +1,4 @@
-<img style="width:80em;" src="assets/gradient.gif">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header"/>
 
 <h1 align="left">
   <img src="assets/Hi.gif" width="38px"> Hey there! I'm Shaan ✨
