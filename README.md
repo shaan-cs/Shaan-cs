@@ -1,13 +1,13 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284100-9c3518c1-7e7e-4e1c-8a0a-9f90b3f1c9f5.gif">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:9333ea&height=80&section=header&animation=twinkling"/>
 
 <h1 align="left">
-  <img src="assets/Hi.gif" width="38px"> Hey there! I'm Shaan ✨
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px"> Hey there! I'm Mohd Shahnawaz ✨
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00ACDE&width=600&height=80&lines=Let%E2%80%99s+Build+Something+Powerful+%F0%9F%9A%80;Web+Developer;Cybersecurity+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&width=600&height=80&lines=Let%E2%80%99s+Build+Something+Powerful+🚀;Web+Developer;Cybersecurity+Enthusiast)](https://git.io/typing-svg)
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=Shaan-cs&color=blue&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Shaan-cs&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
@@ -15,115 +15,75 @@
 ### 🚀 About Me
 
 <p>
-I’m a passionate <b>Full Stack (MERN) Developer</b> and Cybersecurity Enthusiast.  
-I enjoy building secure, scalable, and real-world web applications.  
-
-Currently a 3rd Year BCA student focused on:
-• Full Stack Development  
-• Data Structures & Algorithms  
-• Backend Architecture  
-• Cybersecurity & Ethical Hacking  
-
-I’ve built projects like an AI Interview Platform and an IDS + IPS system with Gmail alerts that automatically blocks malicious IPs.
+Turning imagination into secure and scalable web applications is my favorite kind of magic ✨🚀 I’m a passionate Full Stack (MERN) Developer and Cybersecurity Enthusiast, always excited to learn new technologies and build impactful real-world solutions. From interactive frontends to secure backend systems, I love bringing ideas to life through code. Let’s build something secure and meaningful together! Currently a 3rd Year BCA student at Jaipur National University.
 </p>
 
 ---
 
 ### 🛠️ Tech Stack & Tools
+<h4>🌐 Frontend Development</h4>
+<p> <img src="https://skillicons.dev/icons?i=html" width="40"/> HTML &nbsp;&nbsp; 
+<img src="https://skillicons.dev/icons?i=css" width="40"/> CSS &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=js" width="40"/> JavaScript &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=bootstrap" width="40"/> Bootstrap &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=tailwind" width="40"/> Tailwind &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react" width="40"/> React </p>
 
-<div align="left">
-  <table>
-    <tr>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=html" width="48"/>
-        <br>HTML
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=css" width="48"/>
-        <br>CSS
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=js" width="48"/>
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=react" width="48"/>
-        <br>React
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=nodejs" width="48"/>
-        <br>Node.js
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=express" width="48"/>
-        <br>Express
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=mongodb" width="48"/>
-        <br>MongoDB
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=mysql" width="48"/>
-        <br>MySQL
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=docker" width="48"/>
-        <br>Docker
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=aws" width="48"/>
-        <br>AWS
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=git" width="48"/>
-        <br>Git
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=github" width="48"/>
-        <br>GitHub
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=linux" width="48"/>
-        <br>Linux
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=postman" width="48"/>
-        <br>Postman
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=vscode" width="48"/>
-        <br>VS Code
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- ⚙️ Backend --> 
+<h4>⚙️ Backend Development</h4> 
+<p> <img src="https://skillicons.dev/icons?i=nodejs" width="40"/> Node.js &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=express" width="40"/> Express &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=fastapi" width="40"/> FastAPI &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=java" width="40"/> Java </p> 
 
----
+<!-- 🗄️ Databases -->
+<h4>🗄️ Databases</h4>
+<p> <img src="https://skillicons.dev/icons?i=mongodb" width="40"/> MongoDB &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=mysql" width="40"/> MySQL &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=firebase" width="40"/> Firebase </p>
 
-### ⚡️ Where to find me
+<!-- ☁️ DevOps --> 
+<h4>☁️ Cloud & DevOps</h4>
+<p> <img src="https://skillicons.dev/icons?i=docker" width="40"/> Docker &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=kubernetes" width="40"/> Kubernetes &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=aws" width="40"/> AWS &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=vercel" width="40"/> Vercel </p>
 
-<p>
-<a href="https://github.com/Shaan-cs"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=yellow"></a>
-<a href="https://linkedin.com/in/shaan-cs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:mohdshaan.tech@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+<!-- 🛡️ Security -->
+<h4>🛡️ Cybersecurity & Testing</h4>
+<p> <img src="https://img.shields.io/badge/DVWA-CC0000?style=flat-square"/> DVWA &nbsp;&nbsp; <img src="https://img.shields.io/badge/PortSwigger-FF6633?style=flat-square"/> PortSwigger &nbsp;&nbsp; <img src="https://img.shields.io/badge/Hoppscotch-31C48D?style=flat-square"/> Hoppscotch </p>
+
+<!-- 🛠️ Tools --> 
+<h4>🛠️ Tools & Platforms</h4>
+<p> <img src="https://skillicons.dev/icons?i=git" width="40"/> Git &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=github" width="40"/> GitHub &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=linux" width="40"/> Linux &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=vscode" width="40"/> VS Code &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=wordpress" width="40"/> WordPress </p>
+
+### ⚡️ Let's Connect
+
+<p align="center">
+<a href="https://github.com/Shaan-cs">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/shaan-cs">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:mohdshaan.tech@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaan-cs&show_icons=true&theme=gruvbox&rank_icon=github&card_width=550"/>
-<br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaan-cs&layout=compact&theme=gruvbox&card_width=550"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaan-cs&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaan-cs&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Shaan-cs&theme=gruvbox&hide_border=false&card_width=550"/>
+  <img src="https://streak-stats.demolab.com?user=Shaan-cs&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaan-cs&theme=github-dark&hide_border=true&bg_color=0d1117&color=00c6ff&line=00c6ff&point=ffffff" width="100%"/>
 </p>
 
 ---
 
-<img style="width:80em;" src="assets/gradient.gif">
+### 🌟 A Little Inspiration
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true"/>
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:9333ea&height=80&section=footer&animation=twinkling"/>
