@@ -1,5 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C6FF&center=true&width=600&height=80&lines=Let%E2%80%99s+Build+Something+Powerful+%F0%9F%9A%80;Web+Developer;Cybersecurity+Enthusiast)](https://git.io/typing-svg)
+
 I’m currently working on Full Stack Web Development (MERN Stack) projects and building real-world applications like an AI Interview Platform and security-based tools.<br>I’m looking to collaborate on Open Source Projects, Cybersecurity tools, and Full Stack Web Applications that solve real-world problems.<br>I’m looking for help with advanced backend architecture, system design, Cyber Security, and cloud deployment (AWS / Vercel / Docker).<br>I’m currently learning Data Structures & Algorithms, Advanced React, Node.js Optimization, and exploring Cybersecurity & Ethical Hacking concepts.<br>Ask me about HTML, CSS, JavaScript, React, Node.js, SQL, DBMS, Cybersecurity basics, and Placement Preparation.<br>Fun fact: I love building security-based projects — once built an IDS + IPS + Alert on Gmail system that detects attacks and automatically blocks malicious IPs 🚀
 
 
