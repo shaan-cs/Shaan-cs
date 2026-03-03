@@ -1,6 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00ACDE&width=600&height=80&lines=Let%E2%80%99s+Build+Something+Powerful+%F0%9F%9A%80;Web+Developer;Cybersecurity+Enthusiast)](https://git.io/typing-svg)
-
-
 <img style="width:80em;" src="assets/gradient.gif">
 
 <h1 align="left">
