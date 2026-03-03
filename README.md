@@ -1,19 +1,132 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00ACDE&width=600&height=80&lines=Let%E2%80%99s+Build+Something+Powerful+%F0%9F%9A%80;Web+Developer;Cybersecurity+Enthusiast)](https://git.io/typing-svg)
 
-I’m currently working on Full Stack Web Development (MERN Stack) projects and building real-world applications like an AI Interview Platform and security-based tools.<br>I’m looking to collaborate on Open Source Projects, Cybersecurity tools, and Full Stack Web Applications that solve real-world problems.<br>I’m looking for help with advanced backend architecture, system design, Cyber Security, and cloud deployment (AWS / Vercel / Docker).<br>I’m currently learning Data Structures & Algorithms, Advanced React, Node.js Optimization, and exploring Cybersecurity & Ethical Hacking concepts.<br>Ask me about HTML, CSS, JavaScript, React, Node.js, SQL, DBMS, Cybersecurity basics, and Placement Preparation.<br>Fun fact: I love building security-based projects — once built an IDS + IPS + Alert on Gmail system that detects attacks and automatically blocks malicious IPs 🚀
 
+<img style="width:80em;" src="assets/gradient.gif">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaan-cs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohdshaan.tech@gmail.com ) 
+<h1 align="left">
+  <img src="assets/Hi.gif" width="38px"> Hey there! I'm Shaan ✨
+</h1>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shaan-cs&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shaan-cs&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaan-cs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=false&multiline=true&width=600&height=80&lines=Let’s+Build+Something+Secure+%F0%9F%9A%80;MERN+Developer;Cybersecurity+Enthusiast+%F0%9F%94%90)](https://git.io/typing-svg)
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Shaan-cs&color=blue&style=for-the-badge" alt="Profile views" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shaan-cs&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+
+<p>
+I’m a passionate <b>Full Stack (MERN) Developer</b> and Cybersecurity Enthusiast.  
+I enjoy building secure, scalable, and real-world web applications.  
+
+Currently a 3rd Year BCA student focused on:
+• Full Stack Development  
+• Data Structures & Algorithms  
+• Backend Architecture  
+• Cybersecurity & Ethical Hacking  
+
+I’ve built projects like an AI Interview Platform and an IDS + IPS system with Gmail alerts that automatically blocks malicious IPs.
+</p>
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="left">
+  <table>
+    <tr>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=html" width="48"/>
+        <br>HTML
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=css" width="48"/>
+        <br>CSS
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=js" width="48"/>
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=react" width="48"/>
+        <br>React
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=nodejs" width="48"/>
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=express" width="48"/>
+        <br>Express
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=mongodb" width="48"/>
+        <br>MongoDB
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=mysql" width="48"/>
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=docker" width="48"/>
+        <br>Docker
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=aws" width="48"/>
+        <br>AWS
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=git" width="48"/>
+        <br>Git
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=github" width="48"/>
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=linux" width="48"/>
+        <br>Linux
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=postman" width="48"/>
+        <br>Postman
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=vscode" width="48"/>
+        <br>VS Code
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### ⚡️ Where to find me
+
+<p>
+<a href="https://github.com/Shaan-cs"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=yellow"></a>
+<a href="https://linkedin.com/in/shaan-cs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:mohdshaan.tech@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaan-cs&show_icons=true&theme=gruvbox&rank_icon=github&card_width=550"/>
+<br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaan-cs&layout=compact&theme=gruvbox&card_width=550"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Shaan-cs&theme=gruvbox&hide_border=false&card_width=550"/>
+</p>
+
+---
+
+<img style="width:80em;" src="assets/gradient.gif">
